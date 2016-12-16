@@ -1,3 +1,4 @@
+//WAS GIVEN THIS FILE FOR PROJECT
 package merkle.hash;
 
 import merkle.implementation.MerkleTree;
